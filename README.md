@@ -1,0 +1,1 @@
+if I have more time I would like to implement the use   #Given I am a user of Huddle with valid credentials
